@@ -37,6 +37,7 @@ High-fidelity numerical simulations (such as Finite Element Analysis) are comput
 - **Optimal Length ($L$):** $1.000\text{ m}$
 - **Optimal Thickness ($t$):** $0.0100\text{ m}$
 - **Predicted Deflection:** $0.0012\text{ m}$ (Safely within the $0.05\text{ m}$ allowance)
+<img width="811" height="659" alt="plot" src="https://github.com/user-attachments/assets/b5bd75b1-ebe1-4517-b3db-6a72092a7e81" />
 
 ---
 
